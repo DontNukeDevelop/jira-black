@@ -9,8 +9,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://jira.eg.dk/*"],
-      "js": ["script.js"],
+      "matches": ["https://jira.eg.dk/*", "https://confluence.eg.dk/*"],
       "css": ["style.css"],
       "all_frames":true
     }

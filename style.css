@@ -1,5 +1,5 @@
 html {
-  filter: invert(86%) hue-rotate(180deg) brightness(105%) contrast(105%);
+  filter: invert(88%) hue-rotate(180deg) brightness(105%) contrast(105%);
   background: white;
 }
 body {
@@ -35,5 +35,5 @@ iframe,
   background: white;
 }
 [data-testid="media-viewer-image"] {
-  filter: inherit
+  filter: inherit;
 }
