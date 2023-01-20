@@ -37,3 +37,8 @@ iframe,
 [data-testid="media-viewer-image"] {
   filter: inherit;
 }
+
+/* CONFLUENCE */
+#main-content.wiki-content {
+  filter: invert(94%);
+}
