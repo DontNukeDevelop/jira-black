@@ -11,6 +11,8 @@ body {
 [data-testid*="profile"] span:empty,
 [data-test-id*="profile"] span:empty,
 span[role="img"],
+span[role="video"],
+video,
 img,
 svg,
 iframe,
